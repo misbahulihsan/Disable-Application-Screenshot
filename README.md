@@ -1,4 +1,4 @@
-# Disable-Application-Screenshot
+# Disable-Application-Screenshot Android
 Android - Disable Application Screenshot
 
 This simple, just put this code to Activity
